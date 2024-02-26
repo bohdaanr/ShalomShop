@@ -16,9 +16,9 @@ export const Header = () => {
             <span></span>
           </div>
           <nav className={classNames('header__menu', {'active': isActive})}>
-            <a href="#" className="header__link">ГОЛОВНА</a>
-            <a href="#watches" className="header__link">ГОДИННИКИ</a>
-            <a href="#accessories" className="header__link">АКСЕСУАРИ</a>
+            <a href="#" className="header__link">ГОДИННИКИ</a>
+            <a href="#watches" className="header__link">НОУТБУКИ</a>
+            <a href="#accessories" className="header__link">ПЛАНШЕТИ</a>
           </nav>
         </div>
 
