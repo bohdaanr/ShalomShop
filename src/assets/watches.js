@@ -1,4 +1,4 @@
-export const models = [
+export const watches = [
   {
     id: 1,
     name: 'Colmi P71',
@@ -161,16 +161,6 @@ export const models = [
   },
   {
     id: 17,
-    name: 'Colmi V70',
-    price: 1200,
-    color: 'black',
-    img: './img/models/ZemblazeVibe7pro-black.jpg',
-    display: '1.43"',
-    resolution: '466x466',
-    battery: 400,
-  },
-  {
-    id: 18,
     name: 'Zeblaze vibe 7 pro',
     price: 1700,
     color: 'black',
@@ -180,7 +170,7 @@ export const models = [
     battery: 400,
   },
   {
-    id: 19,
+    id: 18,
     name: 'Zeblaze vibe 7 pro',
     price: 1700,
     color: 'white',
@@ -190,7 +180,7 @@ export const models = [
     battery: 400,
   },
   {
-    id: 20,
+    id: 19,
     name: 'Zeblaze vibe 7 lite',
     price: 1300,
     color: 'white',
@@ -200,7 +190,7 @@ export const models = [
     battery: 400,
   },
   {
-    id: 21,
+    id: 20,
     name: 'Zeblaze GTR 3 PRO',
     price: 1400,
     color: 'white',
@@ -210,7 +200,7 @@ export const models = [
     battery: 250,
   },
   {
-    id: 22,
+    id: 21,
     name: 'Zeblaze GTR 3 PRO',
     price: 1400,
     color: 'gold',
@@ -220,7 +210,7 @@ export const models = [
     battery: 250,
   },
   {
-    id: 23,
+    id: 22,
     name: 'Zeblaze GTR 3 PRO',
     price: 1400,
     color: 'black',
@@ -230,11 +220,21 @@ export const models = [
     battery: 250,
   },
   {
-    id: 24,
+    id: 23,
     name: 'Zeblaze GTS 3 PRO',
     price: 900,
     color: 'white',
     img: './img/models/Zeblaze GTS 3 PRO-white.jpg',
+    display: '1.97"',
+    resolution: '415x505',
+    battery: 250,
+  },
+  {
+    id: 24,
+    name: 'Zeblaze GTS 3 PRO',
+    price: 900,
+    color: 'pink',
+    img: './img/models/Zeblaze GTS 3 PRO-pink.jpg',
     display: '1.97"',
     resolution: '415x505',
     battery: 250,
@@ -251,16 +251,6 @@ export const models = [
   },
   {
     id: 26,
-    name: 'Zeblaze GTS 3 PRO',
-    price: 900,
-    color: 'pink',
-    img: './img/models/Zeblaze GTS 3 PRO-pink.jpg',
-    display: '1.97"',
-    resolution: '415x505',
-    battery: 250,
-  },
-  {
-    id: 27,
     name: 'Zeblaze btalk 2 lite',
     price: 950,
     color: 'black',
@@ -270,7 +260,7 @@ export const models = [
     battery: 250,
   },
   {
-    id: 28,
+    id: 27,
     name: 'Zeblaze btalk 2 lite',
     price: 950,
     color: 'pink',
@@ -391,8 +381,8 @@ export const models = [
   },
   {
     id: 39,
-    name: 'Zeblaze Ares 3 pro',
-    price: 1500,
+    name: 'Zeblaze Ares 3',
+    price: 1450,
     color: 'black',
     img: './img/models/Zeblaze Ares 3 pro-black.jpg',
     display: '1.43"',
@@ -401,8 +391,8 @@ export const models = [
   },
   {
     id: 40,
-    name: 'Zeblaze Ares 3 pro',
-    price: 1500,
+    name: 'Zeblaze Ares 3',
+    price: 1450,
     color: 'blue',
     img: './img/models/Zeblaze Ares 3 pro-blue.jpg',
     display: '1.43"',
@@ -411,8 +401,8 @@ export const models = [
   },
   {
     id: 41,
-    name: 'Zeblaze Ares 3 pro',
-    price: 1500,
+    name: 'Zeblaze Ares 3',
+    price: 1450,
     color: 'green',
     img: './img/models/Zeblaze Ares 3 pro-green.jpg',
     display: '1.43"',
@@ -421,8 +411,8 @@ export const models = [
   },
   {
     id: 42,
-    name: 'Masx aurora one',
-    price: 1950,
+    name: 'Zeblaze ares 3 pro',
+    price: 1500,
     color: 'black',
     img: './img/models/Masx aurora one-black.jpg',
     display: '1.43"',
@@ -431,8 +421,8 @@ export const models = [
   },
   {
     id: 43,
-    name: 'Masx aurora one',
-    price: 1950,
+    name: 'Zeblaze ares 3 pro',
+    price: 1500,
     color: 'blue',
     img: './img/models/Masx aurora one-blue.jpg',
     display: '1.43"',
@@ -441,8 +431,8 @@ export const models = [
   },
   {
     id: 44,
-    name: 'Masx aurora one',
-    price: 1950,
+    name: 'Zeblaze ares 3 pro',
+    price: 1500,
     color: 'silver',
     img: './img/models/Masx aurora one-silver.jpg',
     display: '1.43"',

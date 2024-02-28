@@ -1,4 +1,4 @@
-.main {
+.watches {
   padding: 70px 0 90px;
   background: linear-gradient(90deg, rgb(41, 13, 220) 30%, rgb(225, 241, 6) 100%);
 
@@ -44,9 +44,11 @@
       background-color: #fff;
       width: 320px;
       border-radius: 24px;
+      cursor: pointer;
+      transition-duration: 1s;
 
       &:hover {
-        transform: scaleZ(1.2);
+        transform: scale(1.1);
       }
       &--img {
         border-radius: 24px;

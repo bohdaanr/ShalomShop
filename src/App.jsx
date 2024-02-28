@@ -1,5 +1,6 @@
 import { Header } from "./components/Header/Header";
-import { Main } from "./components/Main/Main";
+import { Watches } from "./components/Watches";
+
 import './styles/main.scss'
 
 
@@ -8,7 +9,7 @@ function App() {
   return (
     <>
       <Header />
-      <Main />
+      <Watches />
     </>
   )
 }
