@@ -15,9 +15,9 @@ export const Watches = () => {
                   </div>
                   <h3 className="watches__card--title">{m.name} - <b>{m.price}грн</b></h3>
                   <div className="watches__card--bottom">
-                    <span className="watches__card--bottom-item">Дисплей:{m.display}</span>
-                    <span className="watches__card--bottom-item">Росширення:{m.resolution}</span>
-                    <span className="watches__card--bottom-item">Ємність батареї:{m.battery} А.г</span>
+                    <span className="watches__card--bottom-item">Дисплей:<b>{m.display}</b></span>
+                    <span className="watches__card--bottom-item">Росширення:<b>{m.resolution}</b></span>
+                    <span className="watches__card--bottom-item">Ємність батареї:<b>{m.battery} А.г</b></span>
                   </div>
                 </div>
               ))}

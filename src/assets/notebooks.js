@@ -5,10 +5,11 @@ export const notebooks = [
     processor: 'Intel® i7-6820HQ',
     ssd: 'М2 512GB NVME',
     video: 'Nvidia Quadro M1000M (2GB GDDR5)',
-    price: '500$',
+    price: '19230',
     img: './img/notebooks/DELL Precision 5510.jpg',
     display: '15.6"',
     resolution: '240x285',
-    battery: 230,
+    battery: '0% зносу',
+    ram: '16GB'
   },
 ]

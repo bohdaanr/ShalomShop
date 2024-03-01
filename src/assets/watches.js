@@ -42,7 +42,7 @@ export const watches = [
   {
     id: 5,
     name: 'Colmi P73',
-    price: 680,
+    price: 890,
     color: 'white',
     img: './img/models/ColmiP73-black.jpg',
     display: '1.9"',
@@ -52,7 +52,7 @@ export const watches = [
   {
     id: 6,
     name: 'Colmi P73',
-    price: 680,
+    price: 890,
     color: 'white',
     img: './img/models/ColmiP73-orange.jpg',
     display: '1.9"',
@@ -252,7 +252,7 @@ export const watches = [
   {
     id: 26,
     name: 'Zeblaze btalk 2 lite',
-    price: 950,
+    price: 900,
     color: 'black',
     img: './img/models/Zeblaze btalk 2 lite-black.jpg',
     display: '1.39"',
@@ -262,7 +262,7 @@ export const watches = [
   {
     id: 27,
     name: 'Zeblaze btalk 2 lite',
-    price: 950,
+    price: 900,
     color: 'pink',
     img: './img/models/Zeblaze btalk 2 lite-pink.jpg',
     display: '1.39"',
@@ -272,7 +272,7 @@ export const watches = [
   {
     id: 28,
     name: 'Zeblaze btalk 2 lite',
-    price: 950,
+    price: 900,
     color: 'blue',
     img: './img/models/Zeblaze btalk 2 lite-blue.jpg',
     display: '1.39"',
