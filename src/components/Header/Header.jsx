@@ -18,9 +18,9 @@ export const Header = () => {
             <span></span>
           </div>
           <nav className={classNames('header__menu', {'active': isActive})}>
-            <NavLink to="/" className="header__link">ГОДИННИКИ</NavLink>
-            <NavLink to="/notebooks" className="header__link">НОУТБУКИ</NavLink>
-            <NavLink to="/tablets" className="header__link">ПЛАНШЕТИ</NavLink>
+            <NavLink to="/" className="header__link" onClick={() => setIsActive(false)}>ГОДИННИКИ</NavLink>
+            <NavLink to="/notebooks" className="header__link" onClick={() => setIsActive(false)}>НОУТБУКИ</NavLink>
+            <NavLink to="/tablets" className="header__link" onClick={() => setIsActive(false)}>ПЛАНШЕТИ</NavLink>
           </nav>
         </div>
        </div>
