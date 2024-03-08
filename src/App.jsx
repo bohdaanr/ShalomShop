@@ -13,6 +13,7 @@ function App() {
     <>
       <Header />
       <h1 className="title">SHALOM SHOP</h1>
+      <p className="text">Купуєш на сайті- доставка за наш рахунок</p>
       <Routes>
         <Route path="/" element={<Watches />} />
         <Route path="/notebooks" element={<Notebooks />} />
