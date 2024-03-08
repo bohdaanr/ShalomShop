@@ -12,6 +12,7 @@ function App() {
   return (
     <>
       <Header />
+      <h1 className="title">SHALOM SHOP</h1>
       <Routes>
         <Route path="/" element={<Watches />} />
         <Route path="/notebooks" element={<Notebooks />} />

@@ -13,7 +13,6 @@ export const Header = () => {
           <Link to="/" className="header__logo">
             <img className="header__logo--img" src="./img/watch.svg" alt="logo" />
           </Link>
-          <Link to="/" className="header__link--name">SHALOM SHOP</Link>
           <div className={classNames('header__burger', {'active': isActive})} onClick={() => setIsActive(!isActive)}>
             <span></span>
           </div>

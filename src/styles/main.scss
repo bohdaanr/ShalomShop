@@ -1,3 +1,16 @@
 @import './reset';
 
 @import './blocks/container.scss';
+
+.title {
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgb(41, 13, 220) 30%, rgb(225, 241, 6) 100%);
+  margin: 50px auto 0;
+  display: flex;
+  justify-content: center;
+  color: #fff;
+
+  @media (min-width: 768px) {
+    margin: 70px auto 0;
+  }
+}
