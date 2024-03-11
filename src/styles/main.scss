@@ -16,10 +16,19 @@
 }
 
 .text {
+  text-align: center;
   background: rgb(0,0,0);
   background: linear-gradient(90deg, rgb(41, 13, 220) 30%, rgb(225, 241, 6) 100%);
   display: flex;
   justify-content: center;
   color: red;
   margin-bottom: 0;
+}
+
+.order {
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgb(41, 13, 220) 30%, rgb(225, 241, 6) 100%);
+  margin-bottom: 0;
+  color: #fff;
+  text-align: center;
 }

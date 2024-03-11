@@ -1,5 +1,6 @@
 import './Tablets.scss';
 import {tablets} from '../../assets/tablets';
+import { Button } from '../Button/Button';
 
 export const Tablets = () => {
   return (
@@ -20,6 +21,7 @@ export const Tablets = () => {
                 <span className="tablets__card--bottom-item">RAM:<b>{t.ram}</b></span>
                 
               </div>
+              <Button />
             </div>
           ))}
 

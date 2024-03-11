@@ -1,5 +1,6 @@
 import '../../assets/notebooks';
 import { notebooks } from '../../assets/notebooks';
+import { Button } from '../Button/Button';
 import './Notebooks.scss';
 
 export const Notebooks = () => {
@@ -20,6 +21,7 @@ export const Notebooks = () => {
                 <span className="notebooks__card--bottom-item">SSD:<b>{n.ssd}</b></span>
                 <span className="notebooks__card--bottom-item">RAM:<b>{n.ram}</b></span>
               </div>
+              <Button />
             </div>
           ))}
 
