@@ -5,7 +5,7 @@ export const tablets = [
     panel: 'IPS',
     googlePlay: 'ТАК',
     mainCamera: 'Друга вебкамера, дозвіл передньої вебкамери',
-    price: '150$',
+    price: '5900',
     weight: "400-500г",
     img: './img/tablets/Teclast M50.jpg',
     display: '10.1"',

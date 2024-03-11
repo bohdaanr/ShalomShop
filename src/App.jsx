@@ -4,7 +4,7 @@ import { Watches } from "./components/Watches";
 import { Notebooks } from './components/Notebooks/Notebooks';
 import { Tablets } from './components/Tablets/Tablets';
 
-import './styles/main.scss'
+import './styles/main.scss';
 
 
 function App() {

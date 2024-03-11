@@ -1,5 +1,6 @@
 import './Watches.scss';
 import {watches} from '../../assets/watches';
+import { Button } from '../Button/Button';
 
 export const Watches = () => {
   return (
@@ -19,10 +20,12 @@ export const Watches = () => {
                     <span className="watches__card--bottom-item">Росширення:<b>{m.resolution}</b></span>
                     <span className="watches__card--bottom-item">Ємність батареї:<b>{m.battery} А.г</b></span>
                   </div>
+                  <Button />
                 </div>
               ))}
             </div>
           </div>
+          
         </div>
       </div>
     </div>
