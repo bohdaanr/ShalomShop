@@ -240,17 +240,7 @@ export const watches = [
     battery: 250,
   },
   {
-    id: 25,
-    name: 'Zeblaze GTS 3 PRO',
-    price: 900,
-    color: 'pink',
-    img: './img/models/Zeblaze GTS 3 PRO-pink.jpg',
-    display: '1.97"',
-    resolution: '415x505',
-    battery: 250,
-  },
-  {
-    id: 26,
+    id: 27,
     name: 'Zeblaze btalk 2 lite',
     price: 900,
     color: 'black',
@@ -260,7 +250,7 @@ export const watches = [
     battery: 250,
   },
   {
-    id: 27,
+    id: 28,
     name: 'Zeblaze btalk 2 lite',
     price: 900,
     color: 'pink',
@@ -270,7 +260,7 @@ export const watches = [
     battery: 250,
   },
   {
-    id: 28,
+    id: 29,
     name: 'Zeblaze btalk 2 lite',
     price: 900,
     color: 'blue',
@@ -280,7 +270,7 @@ export const watches = [
     battery: 250,
   },
   {
-    id: 29,
+    id: 30,
     name: 'Zeblaze btalk 3',
     price: 1290,
     color: 'black',
@@ -290,7 +280,7 @@ export const watches = [
     battery: 250,
   },
   {
-    id: 30,
+    id: 31,
     name: 'Zeblaze btalk lite',
     price: 750,
     color: 'black',
@@ -300,7 +290,7 @@ export const watches = [
     battery: 290,
   },
   {
-    id: 31,
+    id: 32,
     name: 'Zeblaze btalk lite',
     price: 750,
     color: 'blue',
@@ -310,7 +300,7 @@ export const watches = [
     battery: 290,
   },
   {
-    id: 32,
+    id: 33,
     name: 'Zeblaze btalk lite',
     price: 750,
     color: 'pink',
@@ -320,7 +310,7 @@ export const watches = [
     battery: 290,
   },
   {
-    id: 33,
+    id: 34,
     name: 'Zeblaze GTS 3 plus',
     price: 1390,
     color: 'black',
@@ -330,7 +320,7 @@ export const watches = [
     battery: 290,
   },
   {
-    id: 34,
+    id: 35,
     name: 'Masx Moss 2',
     price: 1450,
     color: 'black',
@@ -340,7 +330,7 @@ export const watches = [
     battery: 400,
   },
   {
-    id: 35,
+    id: 36,
     name: 'Masx Moss 2',
     price: 1450,
     color: 'black',
@@ -350,7 +340,7 @@ export const watches = [
     battery: 400,
   },
   {
-    id: 36,
+    id: 37,
     name: 'Masx Moss 2',
     price: 1450,
     color: 'black',
@@ -360,7 +350,7 @@ export const watches = [
     battery: 400,
   },
   {
-    id: 37,
+    id: 38,
     name: 'Melanda K52',
     price: 1150,
     color: 'black',
@@ -370,7 +360,7 @@ export const watches = [
     battery: 400,
   },
   {
-    id: 38,
+    id: 39,
     name: 'Melanda K52',
     price: 1150,
     color: 'orange',
@@ -380,7 +370,7 @@ export const watches = [
     battery: 400,
   },
   {
-    id: 39,
+    id: 40,
     name: 'Zeblaze Ares 3',
     price: 1450,
     color: 'black',
@@ -390,7 +380,7 @@ export const watches = [
     battery: 400,
   },
   {
-    id: 40,
+    id: 41,
     name: 'Zeblaze Ares 3',
     price: 1450,
     color: 'blue',
@@ -400,7 +390,7 @@ export const watches = [
     battery: 400,
   },
   {
-    id: 41,
+    id: 42,
     name: 'Zeblaze Ares 3',
     price: 1450,
     color: 'green',
@@ -410,7 +400,7 @@ export const watches = [
     battery: 400,
   },
   {
-    id: 42,
+    id: 43,
     name: 'Zeblaze ares 3 pro',
     price: 1500,
     color: 'black',
@@ -420,7 +410,7 @@ export const watches = [
     battery: 400,
   },
   {
-    id: 43,
+    id: 44,
     name: 'Zeblaze ares 3 pro',
     price: 1500,
     color: 'blue',
@@ -430,7 +420,7 @@ export const watches = [
     battery: 400,
   },
   {
-    id: 44,
+    id: 45,
     name: 'Zeblaze ares 3 pro',
     price: 1500,
     color: 'silver',
@@ -440,7 +430,7 @@ export const watches = [
     battery: 400,
   },
   {
-    id: 45,
+    id: 46,
     name: 'Masx aurora one',
     price: 1950,
     color: 'orange',
